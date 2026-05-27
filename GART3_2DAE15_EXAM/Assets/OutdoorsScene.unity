@@ -572,7 +572,7 @@ MonoBehaviour:
       type: {class: FullScreenCustomPass, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Name: Outline Pass
-        enabled: 1
+        enabled: 0
         targetColorBuffer: 0
         targetDepthBuffer: 0
         clearFlags: 0
@@ -836,13 +836,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.08979088, y: 0.35123906, z: 0.033862565, w: 0.93135494}
-  m_LocalPosition: {x: 27.9, y: 19.4, z: 0.3}
+  m_LocalRotation: {x: -0.07503884, y: 0.97991776, z: -0.05981845, w: 0.17479171}
+  m_LocalPosition: {x: 124, y: 126, z: 433}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -11.014, y: 41.326, z: 0}
+  m_LocalEulerAnglesHint: {x: 5.221, y: 159.329, z: -9.711}
 --- !u!114 &1823688468
 MonoBehaviour:
   m_ObjectHideFlags: 0
